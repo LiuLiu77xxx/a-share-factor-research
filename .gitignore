@@ -1,3 +1,5 @@
 .DS_Store
 data/raw_monthly_data.csv
 data/factor_data.csv
+token.txt
+data/adj_factor.csv
